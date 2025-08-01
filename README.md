@@ -116,6 +116,15 @@ insert into events (title, description, event_date, image_url, tier) values
 | `kivoviy318@kloudis.com` | `test1234` | **Gold** | Free + Silver + Gold events |
 | `lelabi5183@ikanteri.com` | `test1234` | **Platinum** | All events (complete access) |
 
+## 🚀 Deployment
+
+### Live Demo
+🌐 **Deployed on Vercel**: [https://tier-based-event-showcase-rose.vercel.app/](https://tier-based-event-showcase-rose.vercel.app/)
+
+### GitHub Repository
+📂 **Source Code**: [https://github.com/yourusername/tier-event-showcase](https://github.com/yourusername/tier-event-showcase)
+
+
 ## 📁 Project Structure
 
 ```
@@ -180,14 +189,6 @@ const { data: events } = await supabase
 - ✅ Upgrade call-to-action buttons
 - ✅ Loading states and error handling
 - ✅ Empty state messaging
-
-## 🚀 Deployment
-
-### Live Demo
-🌐 **Deployed on Vercel**: [https://your-app.vercel.app](https://your-app.vercel.app)
-
-### GitHub Repository
-📂 **Source Code**: [https://github.com/yourusername/tier-event-showcase](https://github.com/yourusername/tier-event-showcase)
 
 ## ✅ Assignment Requirements Checklist
 
